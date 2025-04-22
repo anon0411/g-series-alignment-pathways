@@ -1,0 +1,33 @@
+{
+    "title": "G-Series Alignment Pathways",
+    "upload_type": "dataset",
+    "description": "This repository contains extended experiments from the G-series, focusing on structure-induced alignment in quantum circuits without explicit intent insertion. Each branch explores whether structural consistency is externally interpretable under perturbations.",
+    "creators": [
+      {
+        "name": "Anonymous",
+        "affiliation": "Independent Researcher"
+      },
+      {
+        "name": "PiTer (ChatGPT)",
+        "affiliation": "OpenAI"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "keywords": [
+      "quantum-circuit",
+      "structure-alignment",
+      "intent-absence",
+      "G-series",
+      "feedback"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "",
+        "relation": "isPartOf",
+        "scheme": "doi"
+      }
+    ],
+    "version": "1.0.0",
+    "language": "eng"
+  }
+  

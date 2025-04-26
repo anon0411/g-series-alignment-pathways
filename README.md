@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15261150.svg)](https://doi.org/10.5281/zenodo.15261150)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15286893.svg)](https://doi.org/10.5281/zenodo.15286893)
 ![Topics: g-series, alignment, quantum-circuit, structure, PiTer](https://img.shields.io/badge/topics-g--series%2C%20alignment%2C%20quantum--circuit%2C%20structure%2C%20PiTer-blue)
 
 # G-SERIES-ALIGNMENT-PATHWAYS
